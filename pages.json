@@ -1,0 +1,78 @@
+{
+	"pages": [ 
+	    {
+            "path" : "pages/homePage/homePage",
+            "style" : {				"navigationBarTitleText": "手机验证"			}
+        }
+	],
+	"subpackages": [
+		{
+			"root": "pagesA",
+			"pages": [
+				{
+					"path" : "requirePage/requirePage",
+					"style" :                                                                                    
+					{
+						"navigationBarTitleText": "查询界面",
+						"enablePullDownRefresh": false
+					}
+				}
+			]
+		}
+		,{
+			"root": "pagesB",
+			"pages": [
+				{
+					"path" : "web/Bilibili/Bilibili",
+					"style" :                                                                                    
+					{
+						"navigationBarTitleText": "",
+						"enablePullDownRefresh": false
+					}
+				}
+			]
+		}
+		,{
+			"root": "pagesB",
+			"pages": [
+				{
+					"path" : "web/QQ/QQ",
+					"style" :                                                                                    
+					{
+						"navigationBarTitleText": "",
+						"enablePullDownRefresh": false
+					}
+				}
+			]
+		}
+		,{
+			"root": "pagesB",
+			"pages": [
+				{
+					"path" : "web/aQiYi/aQiYi",
+					"style" :                                                                                    
+					{
+						"navigationBarTitleText": "",
+						"enablePullDownRefresh": false
+					}
+				}
+			]
+		}
+		,{
+			"root": "pagesB",
+			"pages": [
+				{
+					"path" : "web/wangYi/wangYi",
+					"style" :                                                                                    
+					{
+						"navigationBarTitleText": "",
+						"enablePullDownRefresh": false
+					}
+				}
+			]
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",				"navigationBarBackgroundColor": "#FFFFFF",		"backgroundColor": "#FFFFFF"
+	}	// "tabBar": {	// 	"color": "#a2a9a8",	// 	"selectedColor": "#30C6B3",	// 	"borderStyle": "black",	// 	"backgroundColor": "#FFFFFF",	// 	"list": [	// 		{	// 			"pagePath": "pages/login/login",	// 			"iconPath": "static/imgs/fire_gray.png",	// 			"selectedIconPath": "static/imgs/fire_green.png",	// 			"text": "登录"	// 		},	// 		{	// 			"pagePath": "pages/register/register",	// 			"iconPath": "static/imgs/moom_gray.png",	// 			"selectedIconPath": "static/imgs/moom_green.png",	// 			"text": "注册"	// 		}	// 	]	// }
+}

@@ -1,0 +1,28 @@
+{
+  "pages": [
+    "pages/homePage/homePage"
+  ],
+  "subPackages": [
+    {
+      "root": "pagesA",
+      "pages": [
+        "requirePage/requirePage"
+      ]
+    },
+    {
+      "root": "pagesB",
+      "pages": [
+        "web/Bilibili/Bilibili",
+        "web/QQ/QQ",
+        "web/aQiYi/aQiYi",
+        "web/wangYi/wangYi"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,1 @@
+<view><web-view src="https://passport.bilibili.com/account/security#/bindphone/phone/verify"></web-view></view>

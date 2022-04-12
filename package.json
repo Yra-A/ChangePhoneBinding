@@ -1,0 +1,12 @@
+{
+    "id": "sun-login-template",
+    "name": "释结解绑 一别两宽",
+    "version": "1.0.0",
+    "description": "适用于app、h5、微信小程序登录，注册模板",
+    "keywords": [
+        "登录",
+        "注册",
+        "找回密码",
+        "验证"
+    ]
+}
